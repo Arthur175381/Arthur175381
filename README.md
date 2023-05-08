@@ -8,3 +8,4 @@
 Arthur175381/Arthur175381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Gboard panosuna hoş geldiniz. Kopyaladığınız tüm metinler buraya kaydedilecektir.bt81709940
